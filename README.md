@@ -11,12 +11,11 @@ puis accepter les contrats. L’administrateur peut créer, gérer et assigner d
 
  2. Page d’accueil (type Marketplace)
   Chaque contrat aura :
-  - Photos (minimum 3 par pièce)
-  - Dimensions des pièces
-  - Date prévue des travaux
-  - Prix proposé
-  - Type de peinture (couleur + marque)
-  - Bouton “Postuler”
+  - Photos (minimum 3 par pièce) -OK
+  - Dimensions des pièces -OK
+  - Date prévue des travaux -OK
+  - Type de peinture (couleur + marque) -OK
+  - Bouton “Postuler” -OK
   - Filtres par région, date, type de pièce, prix
 
 
@@ -32,12 +31,12 @@ puis accepter les contrats. L’administrateur peut créer, gérer et assigner d
 
  4. Page profil du peintre
   Contient :
-  - Nom
-  - Courriel
-  - Numéro de téléphone
-  - Années d'expérience
-  - Endroits où il/elle peut travailler (régions)
-  - Contrat deja terminer
+  - Nom -OK
+  - Courriel -OK
+  - Numéro de téléphone -OK
+  - Années d'expérience 
+  - Endroits où il/elle peut travailler (régions) -OK
+  - Contrat deja terminer 
 
 
  5. Notifications (admin seulement)
